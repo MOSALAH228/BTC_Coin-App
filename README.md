@@ -1,28 +1,11 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
-
-
 # Bitcoin Ticker 🤑
 
-## Our Goal
-
-The objective of this tutorial is to learn about using Cupertino and Material Widgets in parallel and providing a different user interface depending on the platform.
-
-
-## What you will create
-
-We’re going to make a crypto currency price checking app. By the end of the module, you'll be able to monitor your bitcoin investents on the move!
-
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/bitcoin-flutter-demo.gif)
-
-## What you will learn
-
-- How to use the DropdownButton Widget from Material design.
-- How to loop through code using Dart for and for-in loops.
-- How to use Cupertino Widgets in your app.
-- How to check the platform your app is being run on to customise the UI for that platform.
-- Revise previous concepts by completing the challenges.
+its just an simple app that deals with BITCOIN currency and turn in your currency of your country to see what it costs,
+Like 1 BITCOIN costs ????? in your country ........ ,i used an API from a web site called bitcoinaverage.com , and i also used 
+a DROPDOWNBUTTON for both platforms ios....and android ....... hope u like it.
 
 
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
+![Screenshot_1622065205](https://user-images.githubusercontent.com/77206236/119738320-d135fe00-be80-11eb-9a0a-1873c6c9ad23.png)
+![Screenshot_1622065226](https://user-images.githubusercontent.com/77206236/119738323-d1ce9480-be80-11eb-9ab0-336b73875988.png)
+![Screenshot_1622064858](https://user-images.githubusercontent.com/77206236/119738324-d2672b00-be80-11eb-924b-443b0c7a1af7.png)
